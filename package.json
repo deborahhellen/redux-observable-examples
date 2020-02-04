@@ -1,0 +1,26 @@
+{
+  "name": "redux-observable-examples",
+  "version": "1.0.0",
+  "description": "This is a sample package.json file",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deborahhellen/redux-observable-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deborahhellen/redux-observable-examples/issues"
+  },
+  "homepage": "https://github.com/deborahhellen/redux-observable-examples#readme",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "redux": "^4.0.5",
+    "redux-observable": "^1.2.0",
+    "rxjs": "^6.5.4"
+  }
+}
